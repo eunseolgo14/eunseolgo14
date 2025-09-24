@@ -1,6 +1,5 @@
-<!-- 🌸 Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&color=0:c3fff3,50:ffd6fb,100:e893d8&height=180&section=header&text=Seol's%20Github📁&fontSize=60&fontColor=ffffff&fontAlign=70&stroke=3586db&strokeWidth=1&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=speech&color=0:c3fff3,50:ffd6fb,100:e893d8&height=140&section=header&text=Seol's%20Github📁&fontSize=50&fontColor=ffffff&fontAlignY=50&fontAlign=73&stroke=3586db&strokeWidth=1&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -164,7 +163,7 @@
 - ✉️ your_email@example.com  
 - 💼 [LinkedIn][link-linkedin]
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:c3fff3,50:ffd6fb,100:e893d8&text=Thank%20you&height=120&fontSize=50&fontColor=ffffff&fontAlignY=60&fontAlign=80&stroke=3586db&strokeWidth=1&animation=fadeIn&section=footer"/>
