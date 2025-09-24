@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/hello_eunseol.png" alt="Hello! I'm Eunseol" width="500"/>
+  <img src="assets/hello_eunseol_clean.png" alt="Hello! I'm Eunseol" width="500"/>
 </p>
 
 <p align="center">
