@@ -98,7 +98,7 @@
 >   - 재사용: 경로/지도 모듈 컴포넌트화(다중 경유지, 완료/미완료 구간 표시)
 > - **Stack**: Spring Boot · React · MySQL · WebSocket · Kakao Map API  
 > - 🔗 [팀 레포지토리 링크][link-squirrel-team]
-> - 🔗 [개인 기여 레포지토리 링크][link-squirrel-contrib]
+> - 🔗 [개인 기여 레포지토리 링크]  (연결 예정)
 
 <br>
 
@@ -161,7 +161,7 @@
 ---
 # 📫 Contact
 - ✉️ your_email@example.com  
-- 💼 [LinkedIn][link-linkedin]
+- 💼 [LinkedIn]  (연결 예정)
 
 <br>
 
@@ -170,7 +170,7 @@
 </p>
 
 
-[link-squirrel-team]: https://github.com/team/squirrel-logistics
+[link-squirrel-team]: https://github.com/kkkddkkk/squirrelLogistics/tree/dev
 [link-squirrel-contrib]: https://github.com/eunseolgo14/squirrel-logistics-contrib
 [link-gameA-play]: https://play.google.com/store/apps/details?id=com.BRAEVE.lovebastards.google&hl=ko
 [link-gameB-play]: https://play.google.com/store/apps/details?id=com.BRAEVE.workaholicknights.google&hl=ko
@@ -179,5 +179,5 @@
 [link-algo]: https://github.com/eunseolgo14/algorithms-practice
 [link-linkedin]: https://linkedin.com/in/eunseolgo14
 [link-notion]: https://notion.so/yourpage
-[link-game-class]: https://notion.so/yourpage
-[link-fullstack-notes]: https://notion.so/yourpage
+[link-game-class]:https://psychedelic-deposit-53c.notion.site/3c17a7156cb74b1691b54061b8d7d273
+[link-fullstack-notes]: https://psychedelic-deposit-53c.notion.site/JAVA-aa71c33d2d7b415086728c98264e35ef?pvs=74
