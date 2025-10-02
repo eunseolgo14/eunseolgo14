@@ -144,6 +144,14 @@
 
 ---
 
+# 📚 Learning Records
+- ✏️ [Coding Test Practice (JAVA)][link-coding-test]  
+- ✏️ [Data Structures Practice (C)][link-algo]  
+- 📘 [Fullstack Study Notes (Notion)][link-fullstack-notes]  
+- 📘 [Game Dev Study Notes (Notion)][link-game-class]
+
+---
+
 # 📜 Achievements
 - 🏅 정보처리기사 (2025)  
 - 🏅 SQLD (2025)  
@@ -164,14 +172,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eunseolgo14&show_icons=true&theme=cobalt" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunseolgo14&layout=donut&theme=cobalt" height="170"/>
 </p>
-
----
-
-# 📚 Learning Records
-- ✏️ [Coding Test Practice (JAVA)][link-coding-test]  
-- 📘 [Algorithms & Data Structures (C)][link-algo]  
-- 📝 [Fullstack Study Notes (Notion)][link-fullstack-notes]  
-- 🎮 [Game Development Notes (Notion)][link-game-class]
 
 ---
 # 📫 Contact
