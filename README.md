@@ -16,6 +16,60 @@
 
 ---
 
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-FE8A71?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-7AA6FF?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-5C7AEA?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-8E5ACD?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFDF5D?style=for-the-badge&logo=javascript&logoColor=222"/>
+  <img src="https://img.shields.io/badge/HTML5-FF7A7A?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-66A8FF?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-36C4B8?style=for-the-badge&logo=dart&logoColor=white"/>
+  <br/>
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-77DD77?style=for-the-badge&logo=springboot&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/Hibernate-BE9E7E?style=for-the-badge&logo=hibernate&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/React-9BE7FF?style=for-the-badge&logo=react&logoColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Redux-8D6AD9?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-7FD8FF?style=for-the-badge&logo=flutter&logoColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/Bootstrap-AE8BFF?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-7AB3FF?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-7B7B7B?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photon-9C7AED?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket·STOMP-FF7BA5?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <br/>
+
+  <!-- DB -->
+  <img src="https://img.shields.io/badge/MySQL-66BBD6?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-FF6D6D?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <br/>
+
+  <!-- Infra & DevOps -->
+  <img src="https://img.shields.io/badge/Railway-26B0A7?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aiven-FF944D?style=for-the-badge&logo=aiven&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/Vercel-2B2B2B?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-8F6BFF?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-F9C74F?style=for-the-badge&logo=amazons3&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/Firebase-FFB852?style=for-the-badge&logo=firebase&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/Postman-FF7A59?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-5A5AE6?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+  <br/>
+
+  <!-- Collaboration -->
+  <img src="https://img.shields.io/badge/Notion-2B2B2B?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-2684FF?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redmine-D9534F?style=for-the-badge&logo=redmine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SourceTree-2F7BF6?style=for-the-badge&logo=sourcetree&logoColor=white"/>
+</p>
+
+
 # 🛠 Tech Stack
 <div align="center">
 <table>
