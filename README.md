@@ -154,9 +154,10 @@
 ---
 
 # 📚 Learning Records
-- 📘 [Algorithms & Data Structures (C Practice)][link-algo]  
+- ✏️ [Coding Test Practice (JAVA)][link-coding-test]  
+- 📘 [Algorithms & Data Structures (C)][link-algo]  
 - 📝 [Fullstack Study Notes (Notion)][link-fullstack-notes]  
-- 🎮 [Game Development Class Notes][link-game-class]
+- 🎮 [Game Development Notes (Notion)][link-game-class]
 
 ---
 # 📫 Contact
@@ -176,8 +177,10 @@
 [link-gameB-play]: https://play.google.com/store/apps/details?id=com.BRAEVE.workaholicknights.google&hl=ko
 [link-dungeon-git]: https://github.com/eunseolgo14/dungeon-shooter
 [link-dungeon-demo]: https://www.youtube.com/watch?v=yaR13-YVNWY
+[link-coding-test]: https://github.com/eunseolgo14/codingtest-practice
 [link-algo]: https://github.com/eunseolgo14/algorithms-practice
 [link-linkedin]: https://linkedin.com/in/eunseolgo14
 [link-notion]: https://notion.so/yourpage
 [link-game-class]:https://psychedelic-deposit-53c.notion.site/3c17a7156cb74b1691b54061b8d7d273
 [link-fullstack-notes]: https://psychedelic-deposit-53c.notion.site/JAVA-aa71c33d2d7b415086728c98264e35ef?pvs=74
+
