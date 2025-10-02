@@ -73,6 +73,12 @@
 # 📁 Featured Projects
 
 > ### 🐿️ Squirrel Logistics (Team Project)
+>
+> > <p align="center">
+>   <img src="./assets/1_1.png" alt="Route Optimization" width="48%"/>
+>   <img src="./assets/1_2.png" alt="Dark Mode" width="48%"/>
+> </p>
+> 
 > - **개요**: 풀스택 물류 매칭 플랫폼 – Driver 모듈 담당
 > 
 > - **기술 스택**: Spring Boot · React · MySQL · WebSocket · Kakao Map API
