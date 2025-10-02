@@ -1,186 +1,131 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&color=0:c3fff3,50:ffd6fb,100:e893d8&height=140&section=header&text=Seol's%20Github📁&fontSize=50&fontColor=ffffff&fontAlignY=50&fontAlign=73&stroke=3586db&strokeWidth=1&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=speech&color=0:F4D1F5,50:E7F0C7,100:FEA4EE&height=140&section=header&text=🦔Seol's%20Github&fontSize=50&fontColor=ffffff&fontAlignY=45&fontAlign=30&stroke=C5498B&strokeWidth=1.5&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="assets/hello_eunseol_clean.png" alt="Hello! I'm Eunseol" width="500"/>
+  <img src="assets/hello_eunseol_clean.png" alt="Hello! I'm Eunseol" width="360"/>
 </p>
 
 <p align="center">
-  <h3>✨ 제품을 보는 디자이너의 눈과 만드는 개발자의 손을 함께 지닌 풀스택 개발자, 고은설입니다.</h3>
+  <h4 align="center">✨ 제품을 보는 디자이너의 눈과 만드는 개발자의 손을 함께 지닌 풀스택 개발자, 고은설입니다!✨</h4>
 </p>
 
-사용자와 화면 사이, 팀과 팀 사이를 잇는 **실용적 번역가**로서,  
-**디자인 감수성 + 데이터 이해**를 무기로, 오래 버티는 신뢰성 있는 시스템을 설계합니다.  
-
+<p align="center">
+사용자와 화면 사이, 팀과 팀 사이를 잇는 <b>실용적 번역가로서</b>,<br/>
+<b>디자인 감수성+데이터 이해</b>를 무기로, 오래 버티는 신뢰성 있는 시스템을 설계합니다.  
+</p>
 
 ---
 
-
+# 🐧 Tech Stack
+<h3 align="center"> Languages & DB </h3>
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-FE8A71?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-7AA6FF?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-5C7AEA?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-FF7C5C?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-8E5ACD?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFDF5D?style=for-the-badge&logo=javascript&logoColor=222"/>
-  <img src="https://img.shields.io/badge/HTML5-FF7A7A?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-66A8FF?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-36C4B8?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-66B5FF?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-FFA3D9?style=for-the-badge&logo=cplusplus&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/MySQL-9FC8FE?style=for-the-badge&logo=mysql&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/Oracle-FF513D?style=for-the-badge&logo=oracle&logoColor=white"/>
   <br/>
-
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/Spring%20Boot-77DD77?style=for-the-badge&logo=springboot&logoColor=2b2b2b"/>
-  <img src="https://img.shields.io/badge/Hibernate-BE9E7E?style=for-the-badge&logo=hibernate&logoColor=2b2b2b"/>
-  <img src="https://img.shields.io/badge/React-9BE7FF?style=for-the-badge&logo=react&logoColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Redux-8D6AD9?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-7FD8FF?style=for-the-badge&logo=flutter&logoColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Bootstrap-AE8BFF?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-7AB3FF?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-7B7B7B?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photon-9C7AED?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSocket·STOMP-FF7BA5?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/JavaScript-FFDF5D?style=for-the-badge&logo=javascript&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/HTML5-FB5BD0?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-92F7E1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-04C897?style=for-the-badge&logo=dart&logoColor=white"/>
   <br/>
-
-  <!-- DB -->
-  <img src="https://img.shields.io/badge/MySQL-66BBD6?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-FF6D6D?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <br/>
-
-  <!-- Infra & DevOps -->
-  <img src="https://img.shields.io/badge/Railway-26B0A7?style=for-the-badge&logo=railway&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Aiven-FF944D?style=for-the-badge&logo=aiven&logoColor=2b2b2b"/>
-  <img src="https://img.shields.io/badge/Vercel-2B2B2B?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-8F6BFF?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20S3-F9C74F?style=for-the-badge&logo=amazons3&logoColor=2b2b2b"/>
-  <img src="https://img.shields.io/badge/Firebase-FFB852?style=for-the-badge&logo=firebase&logoColor=2b2b2b"/>
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=2b2b2b"/>
-  <img src="https://img.shields.io/badge/Postman-FF7A59?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-5A5AE6?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-  <br/>
-
-  <!-- Collaboration -->
-  <img src="https://img.shields.io/badge/Notion-2B2B2B?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-2684FF?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redmine-D9534F?style=for-the-badge&logo=redmine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SourceTree-2F7BF6?style=for-the-badge&logo=sourcetree&logoColor=white"/>
 </p>
-
-
-# 🛠 Tech Stack
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>Languages</th>
-      <th>Frameworks & Libraries</th>
-      <th>Databases</th>
-      <th>Infra & DevOps</th>
-      <th>Collaboration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-<img src="https://img.shields.io/badge/Java-ff7e49?style=flat-square&logo=openjdk&logoColor=white"/>  
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>  
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>  
-<img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=&logoColor=white"/>  
-<img src="https://img.shields.io/badge/JavaScript-FFDF00?style=flat-square&logo=javascript&logoColor=black"/>  
-<img src="https://img.shields.io/badge/HTML5-FF6F61?style=flat-square&logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/CSS3-1E90FF?style=flat-square&logo=css&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Dart-00B4AB?style=flat-square&logo=dart&logoColor=white"/>  
-      </td>
-      <td align="center">
-<img src="https://img.shields.io/badge/Spring%20Boot-77DD77?style=flat-square&logo=springboot&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Hibernate-9C7A5B?style=flat-square&logo=hibernate&logoColor=white"/>  
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>  
-<img src="https://img.shields.io/badge/Redux-9B59B6?style=flat-square&logo=redux&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Flutter-00BFFF?style=flat-square&logo=flutter&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>  
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Unity-555555?style=flat-square&logo=unity&logoColor=white"/>  
-<img src="https://img.shields.io/badge/NGUI-20B2AA?style=flat-square&logo=unity&logoColor=white"/>  
-<img src="https://img.shields.io/badge/UGUI-4682B4?style=flat-square&logo=unity&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Photon-9370DB?style=flat-square&logo=unity&logoColor=white"/>  
-<img src="https://img.shields.io/badge/WebSocket·STOMP-E91E63?style=flat-square&logo=socketdotio&logoColor=white"/>  
-      </td>
-      <td align="center">
-<img src="https://img.shields.io/badge/MySQL-006699?style=flat-square&logo=mysql&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Oracle-E74C3C?style=flat-square&logo=oracle&logoColor=white"/>  
-      </td>
-      <td align="center">
-<img src="https://img.shields.io/badge/Railway-008080?style=flat-square&logo=railway&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Aiven-FF8C42?style=flat-square&logo=aiven&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Vercel-20232A?style=flat-square&logo=vercel&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Render-8A2BE2?style=flat-square&logo=render&logoColor=white"/>  
-<img src="https://img.shields.io/badge/AWS%20S3-F9A825?style=flat-square&logo=amazons3&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Firebase-FFB300?style=flat-square&logo=firebase&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>  
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>  
-      </td>
-      <td align="center">
-<img src="https://img.shields.io/badge/Notion-222222?style=flat-square&logo=notion&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Jira-2684FF?style=flat-square&logo=jira&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=confluence&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Redmine-D9534F?style=flat-square&logo=redmine&logoColor=white"/>  
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>  
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>  
-<img src="https://img.shields.io/badge/SourceTree-2F7BF6?style=flat-square&logo=atlassian&logoColor=white"/>   
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<h3 align="center"> Frameworks & Libraries </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-5DEE95?style=for-the-badge&logo=springboot&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/jQuery-006EFF?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-FFD080?style=for-the-badge&logo=hibernate&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/WebSocket·STOMP-F07AFF?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React-66D9FF?style=for-the-badge&logo=react&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/Redux-9F78F2?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-EABDFF?style=for-the-badge&logo=bootstrap&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/Unity-666666?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-42A4FF?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+<h3 align="center"> Infra & DevOps </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Railway-22BFB4?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aiven-FFA970?style=for-the-badge&logo=aiven&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/Vercel-8F8F8F?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-672DD2?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-7791BB?style=for-the-badge&logo=amazons3&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/Postman-FF7A59?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+<h3 align="center"> Collaboration </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Notion-F3D3EC?style=for-the-badge&logo=notion&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-96E3F3?style=for-the-badge&logo=jira&logoColor=2b2b2b"/>
+  <img src="https://img.shields.io/badge/Redmine-FF4D4D?style=for-the-badge&logo=redmine&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/SourceTree-85B4FF?style=for-the-badge&logo=sourcetree&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-2B2B2B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-F38F5E?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
 
 ---
 
 # 📁 Featured Projects
 
-> ### 🐿️ Squirrel Logistics - Team Project
-> 풀스택 물류 매칭 플랫폼 – 팀 프로젝트 (Driver 모듈 담당)  
-> - **내 역할**  
+> ### 🐿️ Squirrel Logistics (Team Project)
+> - **개요**: 풀스택 물류 매칭 플랫폼 – Driver 모듈 담당
+> 
+> - **기술 스택**: Spring Boot · React · MySQL · WebSocket · Kakao Map API
+> - **담당 기능 및 기여**  
 >   - 성능 최적화: AOP 타이머로 엔드포인트 계측 → **목록 10건 7s → 2s**, **상세 12s → 3s**  
->     · Slim DTO 분리, JPQL Projection 단일 조회, 지도 포맷(폴리라인/좌표 배열) 분리  
+>   - Slim DTO 분리, JPQL Projection 단일 조회, 지도 포맷(폴리라인/좌표 배열) 분리  
 >   - 실시간: **폴링 → WebSocket/STOMP** 전환, 메시지 페이로드 최소화  
 >   - 검증: FSM 더미 드라이버로 경로 이탈/경유지 스킵 시나리오 재현, **300m 임계치 로그 정책** 도입  
->   - 운영: 주 2회 정례/주간 재배분, 노션 이슈 가시화, 결정 로그로 의사결정 투명성 확보  
 >   - 재사용: 경로/지도 모듈 컴포넌트화(다중 경유지, 완료/미완료 구간 표시)
-> - **Stack**: Spring Boot · React · MySQL · WebSocket · Kakao Map API  
-> - 🔗 [팀 레포지토리 링크][link-squirrel-team]
-> - 🔗 [개인 기여 레포지토리 링크]  (연결 예정)
+>
+> 🔗 [Frondend Deploy][link-squirrel-team]</br>
+> 🔗 [Project Repository][link-squirrel-deploy]</br>
+> 🔗 [Personal Distribution]  (연결 예정)
 
 <br>
 
-> ### 🕹️ Love Bastards – Solo Launch
-> Unity 기반 스토리 게임 · Google Play **단독 출시**  
-> - **배포/운영**: Play Console 번들 등록 및 출시 · **약 3개월 10+회 업데이트**  
->   · **AWS S3 + AssetBundle** 배포 구조 설계/운영 · 구버전 → 신버전 유도 로직  
->   · 사용자 피드백 메일/마켓 리뷰 대응
-> - **툴링**: **Unity 에디터 커스텀 도구**(캐릭터 크기/속도/애니 속도 조정) 제작 → 비개발 직군도 즉시 테스트 가능  
-> - **성과**: **누적 5만+ 다운로드**  
-> - 🔗 [Play Store 링크][link-gameA-play]
+> ### 🕹️ Love Bastards (Solo Launch)
+> - **개요**: Unity 기반 스토리 게임 · Google Play **단독 출시**
+> 
+> - **기술 스택**: Unity · NGUI · Spine · AWS S3 Bucket · GPGS 
+> - **담당 업무**  
+>   - **배포/운영**: Play Console 번들 등록 및 출시 · **약 3개월 10+회 업데이트**  
+>   - **AWS S3 + AssetBundle** 배포 구조 설계/운영 · 구버전 → 신버전 유도 로직  
+>   - 사용자 피드백 메일/마켓 리뷰 대응
+>   - **툴링**: **Unity 에디터 커스텀 도구**(캐릭터 크기/속도/애니 속도 조정) 제작
+> - **성과**: **누적 5만+ 다운로드**
+>   
+> 🔗 [Google Play Store][link-gameA-play]
 
 <br>
 
-> ### 👑 Workaholic Knights – Live Ops
-> 런칭 직후 **QA·패치·운영 담당**  
-> - **업데이트**: 출시 후 **5회 이상** 릴리즈(핫픽스/이벤트/밸런스)  
-> - **품질**: Firebase/크래시 로그 기반 결함 개선, 스토어 패치 릴리즈 관리  
-> - **성과**: **누적 5만+ 다운로드**  
-> - 🔗 [Play Store 링크][link-gameB-play]
+> ### 👑 Workaholic Knights (Live Ops)
+> - **개요**: 런칭 직후 **QA·패치·운영 담당**
+>
+> - **기술 스택**: Unity · NGUI · Spine · AWS S3 Bucket · GPGS 
+> - **담당 업무**  
+>   - **업데이트**: 출시 후 **5회 이상** 릴리즈(핫픽스/이벤트/밸런스)  
+>   - **품질**: Firebase/크래시 로그 기반 결함 개선, 스토어 패치 릴리즈 관리  
+> - **성과**: **누적 5만+ 다운로드**
+>   
+> 🔗 [Google Play Store][link-gameB-play]
 
 <br>
 
-> ### 🎮 Dungeon Shooter (개인 프로젝트)
-> Unity 기반 학습/포트폴리오용 프로젝트  
-> - 플레이어 이동/공격, AI 추적/충돌, 사운드/씬 전환, 코드 리팩토링 및 버그 개선 진행.  
-> - 🔗 [레포지토리 링크][link-dungeon-git]
-> - 🔗 [시연 영상 링크][link-dungeon-demo]
+> ### 🎮 Dungeon Shooter (Personal Project)
+> - **개요**: Unity 기반 학습/포트폴리오용 프로젝트
+>   
+> - **개발 내용**
+>   - 플레이어 이동/공격, AI 추적/충돌, 사운드/씬 전환
+>   - 코드 리팩토링 및 버그 개선 진행
+>
+> 🔗 [Project Repository][link-dungeon-git]</br>
+> 🔗 [Youtube Demo Video][link-dungeon-demo]
 
 ---
 
@@ -215,17 +160,16 @@
 
 ---
 # 📫 Contact
-- ✉️ your_email@example.com  
-- 💼 [LinkedIn]  (연결 예정)
-
+✉️ eunseolgo14@gmail.com  
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:c3fff3,50:ffd6fb,100:e893d8&text=Thank%20you&height=120&fontSize=50&fontColor=ffffff&fontAlignY=60&fontAlign=80&stroke=3586db&strokeWidth=1&animation=fadeIn&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F4D1F5,50:E7F0C7,100:FEA4EE&text=Thank%20you🦔&height=120&fontSize=50&fontColor=ffffff&fontAlignY=55&fontAlign=75&stroke=C5498B&strokeWidth=1.5&animation=fadeIn&section=footer"/>
 </p>
 
 
 [link-squirrel-team]: https://github.com/kkkddkkk/squirrelLogistics/tree/dev
+[link-squirrel-deploy]: https://squirrellogistics.vercel.app
 [link-squirrel-contrib]: https://github.com/eunseolgo14/squirrel-logistics-contrib
 [link-gameA-play]: https://play.google.com/store/apps/details?id=com.BRAEVE.lovebastards.google&hl=ko
 [link-gameB-play]: https://play.google.com/store/apps/details?id=com.BRAEVE.workaholicknights.google&hl=ko
