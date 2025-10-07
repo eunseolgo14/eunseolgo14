@@ -89,9 +89,9 @@
 >   - 검증: FSM 더미 드라이버로 경로 이탈/경유지 스킵 시나리오 재현, **300m 임계치 로그 정책** 도입  
 >   - 재사용: 경로/지도 모듈 컴포넌트화(다중 경유지, 완료/미완료 구간 표시)
 >
-> 🔗 [Frondend Deploy][link-squirrel-team]</br>
 > 🔗 [Project Repository][link-squirrel-deploy]</br>
-> 🔗 [Personal Distribution]  (연결 예정)
+> 🔗 [Youtube Demo Video][link-squirrel-demo]</br>
+> 🔗 [Frontend Deploy][link-squirrel-team]</br>
 
 <br>
 
@@ -175,8 +175,8 @@
 
 ---
 # 📫 Contact
+🔗 [LinkedIn Profile][link-linkedin]</br>
 ✉️ eunseolgo14@gmail.com  
-<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F4D1F5,50:E7F0C7,100:FEA4EE&text=Thank%20you🦔&height=120&fontSize=50&fontColor=ffffff&fontAlignY=55&fontAlign=75&stroke=C5498B&strokeWidth=1.5&animation=fadeIn&section=footer"/>
@@ -185,6 +185,7 @@
 
 [link-squirrel-team]: https://github.com/kkkddkkk/squirrelLogistics/tree/dev
 [link-squirrel-deploy]: https://squirrellogistics.vercel.app
+[link-squirrel-demo]: https://www.youtube.com/watch?v=yI-qoSle2lY
 [link-squirrel-contrib]: https://github.com/eunseolgo14/squirrel-logistics-contrib
 [link-gameA-play]: https://play.google.com/store/apps/details?id=com.BRAEVE.lovebastards.google&hl=ko
 [link-gameB-play]: https://play.google.com/store/apps/details?id=com.BRAEVE.workaholicknights.google&hl=ko
@@ -192,7 +193,7 @@
 [link-dungeon-demo]: https://www.youtube.com/watch?v=yaR13-YVNWY
 [link-coding-test]: https://github.com/eunseolgo14/codingtest-practice
 [link-algo]: https://github.com/eunseolgo14/algorithms-practice
-[link-linkedin]: https://linkedin.com/in/eunseolgo14
+[link-linkedin]: https://www.linkedin.com/in/eunseol-ko-0a0135389/
 [link-notion]: https://notion.so/yourpage
 [link-game-class]:https://psychedelic-deposit-53c.notion.site/3c17a7156cb74b1691b54061b8d7d273
 [link-fullstack-notes]: https://psychedelic-deposit-53c.notion.site/JAVA-aa71c33d2d7b415086728c98264e35ef?pvs=74
