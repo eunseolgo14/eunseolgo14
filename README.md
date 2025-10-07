@@ -89,9 +89,9 @@
 >   - 검증: FSM 더미 드라이버로 경로 이탈/경유지 스킵 시나리오 재현, **300m 임계치 로그 정책** 도입  
 >   - 재사용: 경로/지도 모듈 컴포넌트화(다중 경유지, 완료/미완료 구간 표시)
 >
-> 🔗 [Project Repository][link-squirrel-deploy]</br>
+> 🔗 [Project Repository][link-squirrel-team]</br>
 > 🔗 [Youtube Demo Video][link-squirrel-demo]</br>
-> 🔗 [Frontend Deploy][link-squirrel-team]</br>
+> 🔗 [Frontend Deploy][link-squirrel-deploy]</br>
 
 <br>
 
